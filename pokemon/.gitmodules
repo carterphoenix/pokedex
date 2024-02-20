@@ -1,0 +1,4 @@
+[submodule "pokedex"]
+	path = pokedex
+	url = https://github.com/lindsaymei/pokedex
+
